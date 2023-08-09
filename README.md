@@ -2,6 +2,7 @@
 - 🌱 Located in Brooklyn NY
 - 📫 Reach me by email ghulamnabia75@gmail.com or my Linkedin www.linkedin.com/in/ghulam-nabi-ahmed-668b45259
 - 🎮 Knowledgable in Java, HTML, CSS, JavaScript, Bootstrap, and React JS
+- Recent Project https://frontend-capstone-ten.vercel.app - FinanceMate 
 
 <!---
 Hafiz6092/Hafiz6092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
